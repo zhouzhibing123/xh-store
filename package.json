@@ -1,0 +1,28 @@
+{
+    "name": "xzh-store",
+    "version": "1.0.0",
+    "description": "Data sharing center",
+    "main": "index.js",
+    "scripts": {
+        "test": "Data sharing center"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhouzhibing123/xh-store.git"
+    },
+    "keywords": [
+        "store",
+        "vuex",
+        "data-sharing",
+        "sharing",
+        "xingzhonghe",
+        "xh",
+        "xzh"
+    ],
+    "author": "xingzhonghe",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zhouzhibing123/xh-store/issues"
+    },
+    "homepage": "https://github.com/zhouzhibing123/xh-store#readme"
+}
